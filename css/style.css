@@ -910,7 +910,7 @@ footer ul li a:hover {
     .footer_social{
         justify-content: center;
     }
-    @media screen and (max-width: 600px) {
+    
         /* Adjust the styles of the "Hire Me" button */
         .btn {
             /* Add any necessary styles to ensure the button is fully visible */
